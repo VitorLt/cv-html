@@ -1,0 +1,13 @@
+p {color:white; font-size:30px;}
+body {background-color: red;}
+body {background-image: URL('VitorLt.jpg');
+background-position: 10px 30x;
+background-repeat: no-repeat;
+background-attachment: scroll;
+background-size: 450px 450px;
+
+}
+
+
+//{background-attachment: fixed} - deixa a imagem fixo.
+//
